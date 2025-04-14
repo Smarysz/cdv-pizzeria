@@ -13,6 +13,17 @@
 | 6  | Hawajska | sos pomidorowy, ser, szynka, ananas                       | 24 zł | 32 cm   |
 | 7  | Rybna    | sos pomidorowy, ser, łosoś                                | 27 zł | 32 cm   |
 
+## Pizze wegetariańskie
+<img src="images/arugula-pizza.jpg" width=300>
+
+| Nr. | Nazwa       | Składniki                                           | Cena  | Rozmiar |
+|-----|-------------|-----------------------------------------------------|-------|---------|
+| 1   | Margherita  | sos pomidorowy, ser, bazylia                       | 22 zł | 32 cm   |
+| 2   | Wegetariańska| sos pomidorowy, ser, papryka, cukinia, bakłażan   | 24 zł | 32 cm   |
+| 3   | Rukola      | sos pomidorowy, ser, rukola, pomidory              | 22 zł | 32 cm   |
+| 4   | Caprese     | sos pomidorowy, ser, mozzarella, pomidory, bazylia | 23 zł | 32 cm   |
+| 5   | Ziołowa     | sos pomidorowy, ser, oliwki, suszone pomidory      | 24 zł | 32 cm   |
+
 ## Makarony
 
 | Nr.| Nazwa              | Składniki                                                | Cena  | Rodzaj makaronu |
@@ -23,6 +34,16 @@
 | 4  | Tagliatelle Alfredo | makaron, śmietanka, masło, parmezan                     | 25 zł | tagliatelle     |
 | 5  | Lasagne             | płaty makaronu, sos boloński, beszamel, ser             | 29 zł | lasagne         |
 | 6  | Ravioli z ricottą   | ravioli, ricotta, szpinak, masło szałwiowe              | 28 zł | ravioli         |
+
+## Makarony wegetariańskie
+
+| Nr. | Nazwa               | Składniki                                                 | Cena  | Rodzaj makaronu |
+|-----|---------------------|-----------------------------------------------------------|-------|-----------------|
+| 1   | Spaghetti Primavera  | makaron, warzywa sezonowe, oliwa z oliwek, czosnek        | 26 zł | spaghetti       |
+| 2   | Tagliatelle Pesto    | makaron, sos pesto, orzeszki piniowe, parmezan            | 27 zł | tagliatelle     |
+| 3   | Penne z warzywami    | makaron, papryka, cukinia, bakłażan, sos pomidorowy       | 24 zł | penne           |
+| 4   | Lasagne wegetariańska| płaty makaronu, sos pomidorowy, szpinak, ser ricotta      | 29 zł | lasagne         |
+| 5   | Ravioli warzywne     | ravioli, szpinak, ricotta, masło szałwiowe               | 28 zł | ravioli         |
 
 ## Napoje
 <img src="images/cola.jpg" width=300>
