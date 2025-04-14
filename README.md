@@ -1,2 +1,2 @@
 # cdv-pizzeria
-Pizzeria CDV
+Ten plik należy do gałęzi vege
