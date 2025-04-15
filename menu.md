@@ -24,7 +24,7 @@
 | 4   | Caprese     | sos pomidorowy, ser, mozzarella, pomidory, bazylia | 23 zł | 32 cm   |
 | 5   | Ziołowa     | sos pomidorowy, ser, oliwki, suszone pomidory      | 24 zł | 32 cm   |
 
-## Makarony
+## Makarony 
 <img src="images/pasta.jpg" width=300>
 
 | Nr.| Nazwa              | Składniki                                                | Cena  | Rodzaj makaronu |
