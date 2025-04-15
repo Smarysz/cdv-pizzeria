@@ -55,4 +55,4 @@
 | 3  | Woda             | woda mineralna | 0,5 l     | 4 zł | ❌/✅    |
 | 4  | Tonic            | napój gazowany | 0,5 l     | 6 zł | ✅       |
 | 5  | Sok pomidorowy   | sok warzywny   | 0,33 l    | 5 zł | ❌       |
-| 6  | Piwo             | alkohol        | 0,5 l     | 8 zł | ✅       |
+| 6  | Piwo Lech        | alkohol        | 0,5 l     | 10 zł | ✅      |
