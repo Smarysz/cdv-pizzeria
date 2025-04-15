@@ -25,6 +25,7 @@
 | 5   | Ziołowa     | sos pomidorowy, ser, oliwki, suszone pomidory      | 24 zł | 32 cm   |
 
 ## Makarony
+<img src="images/pasta.jpg" width=300>
 
 | Nr.| Nazwa              | Składniki                                                | Cena  | Rodzaj makaronu |
 |----|--------------------|----------------------------------------------------------|-------|-----------------|
