@@ -11,3 +11,5 @@ Jan Nowak
 Tomasz Problem
 
 ## Grafik
+
+Andrzej Damianowski
