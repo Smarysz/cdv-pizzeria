@@ -8,4 +8,6 @@ Jan Nowak
 
 ## Dostawca
 
+Tomasz Problem
+
 ## Grafik
